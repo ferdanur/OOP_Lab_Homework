@@ -1,10 +1,7 @@
 #include<iostream>// cin-cout
+#include "a.h"
 using namespace std;
 
-int test(int a, int b) //sum of two numbers
-{
-	return (a + b);
-}
 
 int main() {
 	int number1 = 82, number2 = 46;
